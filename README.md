@@ -5,7 +5,7 @@ I like understanding what happens underneath the abstractions: how data moves th
 
 ---
 
-**What I'm building**
+**What I'm built so far**
 
 - [Agentic-KSP](https://github.com/adarsh-v-h/AgenticAI-KSP) — An agentic crime-intelligence platform connecting natural-language interaction with secure database intelligence. FastAPI, gRPC, MySQL, AWS RDS, SSE, RAG, authentication and query validation.
 
