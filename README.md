@@ -26,11 +26,11 @@ I like understanding what happens underneath the abstractions: how data moves th
 ```text
 Systems          C · C++ · Linux · memory · concurrency · computer architecture
 
-Backend          Python · FastAPI · Flask · APIs · gRPC · SSE · authentication
+Backend          Python · FastAPI · APIs · gRPC · SSE · authentication · Java
 
-Databases        MySQL · SQL · indexing · query execution · caching · storage systems
+Databases        PostgresSQL · MySQL · SQL · indexing · query execution · caching(Redis) · storage systems
 
-Distributed      Replication · partitioning · consistency · messaging · fault tolerance
+Distributed      Replication · partitioning · consistency · messaging · fault tolerance · Event Streaming(Kafka)
 
 Cloud            AWS · compute · networking · storage · databases · deployment
 
