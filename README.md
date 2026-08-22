@@ -9,9 +9,9 @@ I like understanding what happens underneath the abstractions: how data moves th
 
 - [Agentic-KSP](https://github.com/adarsh-v-h/AgenticAI-KSP) — An agentic crime-intelligence platform connecting natural-language interaction with secure database intelligence. FastAPI, gRPC, MySQL, AWS RDS, SSE, RAG, authentication and query validation.
 
-- [High-Performance Limit Order Book](https://github.com/adarsh-v-h/Order_book) — An evolving C++ matching engine focused on low-latency execution, cache-aware data structures, concurrency, memory layout and deterministic hot paths.
+- [High-Performance Limit Order Book](https://github.com/adarsh-v-h/Order_book) — An evolving C++ matching engine focused on low-latency execution, cache-aware data structures, concurrency, memory layout and deterministic hot paths.(Still long way to go)
 
-- [Themis's Domain — CRMS](https://github.com/adarsh-v-h/Crime_DB) — A crime record management system built around relational data, backend services, authentication, authorization, indexing, connection pooling, caching and secure workflows.
+- [Themis's Domain — CRMS](https://github.com/adarsh-v-h/Crime_DB) — A crime record management system built around relational data, backend services, authentication, authorization, indexing, connection pooling, caching and secure workflows.(Mostly vibe-coded)
 
 - [navexa ARMv8-A Library](https://github.com/adarsh-v-h/navexa_ARMv8-A_Library) — A low-level C++ library exploring ARMv8-A architectural features through NEON intrinsics, AArch64 inline assembly, SVE emulation, LSE atomics and memory tagging. Cross-compiled and tested through QEMU.
 
@@ -42,10 +42,11 @@ Security         Network security · IAM · authentication · authorization
 ---
 **Currently exploring**
 
-- Data Structures & Algorithms
+- System Design(HLD and LLD)
 - Database Internals
 - Designing Data-Intensive Applications
-- Distributed Systems
+- Python FastAPI Advanced
+- Core Java and Further Spring Ecosystem
 - Cloud Architecture with AWS
 - Backend and System Design
 - Performance-oriented C++
@@ -54,4 +55,3 @@ Security         Network security · IAM · authentication · authorization
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-v-h-2005abc)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adarshvh2005@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://adarsh-v-h.github.io/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/haBYa2qkN2/)
