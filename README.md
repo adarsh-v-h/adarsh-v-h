@@ -1,23 +1,24 @@
 ### Adarsh V H
 Third-year CSE student at JSS Bengaluru. I build software across the systems and backend stack, with a particular interest in performance, databases, distributed systems, and cloud infrastructure.
 
-I like understanding what happens underneath the abstractions: how data moves through a system, how databases execute and store data, where latency comes from, how services communicate, and how software interacts with the hardware beneath it.
+I like understanding what happens underneath the abstractions: how data moves through a system, how databases execute and store data, where latency comes from, how services communicate, and how sof[...]
 
 ---
 
 **What I'm built so far**
 
-- [Agentic-KSP](https://github.com/adarsh-v-h/AgenticAI-KSP) — An agentic crime-intelligence platform connecting natural-language interaction with secure database intelligence. FastAPI, gRPC, MySQL, AWS RDS, and SSE.
+- [Agentic-KSP](https://github.com/adarsh-v-h/AgenticAI-KSP) — An agentic crime-intelligence platform connecting natural-language interaction with secure database intelligence. FastAPI, gRPC, My[...]
 
-- [Universal Log Framework (ULPF)](https://github.com/adarsh-v-h/ULPF) — A universal log ingestion and normalization framework for heterogeneous vendor and application sources, preserving raw events while enriching them into a single schema for storage and analysis.
+- [Universal Log Framework (ULPF)](https://github.com/adarsh-v-h/ULPF) — A universal log ingestion and normalization framework for heterogeneous vendor and application sources, preserving raw ev[...]
 
-- [High-Performance Limit Order Book](https://github.com/adarsh-v-h/Order_book) — An evolving C++ matching engine focused on low-latency execution, cache-aware data structures, concurrency, memory layout, and deterministic hot paths.
+- [High-Performance Limit Order Book](https://github.com/adarsh-v-h/Order_book) — An evolving C++ matching engine focused on low-latency execution, cache-aware data structures, concurrency, memo[...]
 
-- [Themis's Domain — CRMS](https://github.com/adarsh-v-h/Crime_DB) — A crime record management system built around relational data, backend services, authentication, authorization, indexing, connection pooling, and caching.
+- [Themis's Domain — CRMS](https://github.com/adarsh-v-h/Crime_DB) — A crime record management system built around relational data, backend services, authentication, authorization, indexing, c[...]
 
-- [navexa ARMv8-A Library](https://github.com/adarsh-v-h/navexa_ARMv8-A_Library) — A low-level C++ library exploring ARMv8-A architectural features through NEON intrinsics, AArch64 inline assembly, and efficient low-level data handling.
+- [MeetInMin](https://github.com/adarsh-v-h/MeetInMin) — An invisible, AI-powered meeting assistant that captures browser-tab audio via a lightweight Chrome extension and produces transcripts, summaries, key decisions, and action items.
+- Uses Zoho Zia STT with automatic 4-minute chunking, a project memory engine, and Gmail context integration to surface relevant follow-ups.
 
-- [Software-Defined FADEC Simulation](https://github.com/adarsh-v-h/Software-Defined-FADEC-Simulation) — A C++ simulation of a fault-tolerant FADEC architecture with closed-loop engine dynamics, telemetry and safe-state failover logic.
+- [Software-Defined FADEC Simulation](https://github.com/adarsh-v-h/Software-Defined-FADEC-Simulation) — A C++ simulation of a fault-tolerant FADEC architecture with closed-loop engine dynamics,[...]
 
 ---
 
