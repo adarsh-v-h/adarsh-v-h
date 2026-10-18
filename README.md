@@ -1,156 +1,58 @@
-<div align="center">
+### Adarsh V H
+Third-year CSE student at JSS Bengaluru. I build software across the systems and backend stack, with a particular interest in performance, databases, distributed systems, and cloud infrastructure.
 
-# Adarsh V H
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Systems+Engineer;Backend+Developer;Database+%26+Distributed+Systems" />
-
-I build software at the intersection of systems, backend engineering, databases, and cloud infrastructure.
-
-I care deeply about understanding what’s under the hood: how data moves, how systems fail, how databases execute, where latency comes from, and how software interacts with the hardware beneath it.
-
-[LinkedIn](https://linkedin.com/in/adarsh-v-h-2005abc), [Gmail](mailto:adarshvh2005@gmail.com), [Portfolio](https://adarsh-v-h.github.io/)
-
-</div>
+I like understanding what happens underneath the abstractions: how data moves through a system, how databases execute and store data, where latency comes from, how services communicate, and how software interacts with the hardware beneath it.
 
 ---
 
-## About me
+**What I'm built so far**
 
-- Third-year CSE student at JSS Bengaluru
-- Interested in: systems programming, backend architecture, SQL and database internals, distributed systems, cloud, and performance engineering
-- Passionate about building reliable, fast, and observably correct software
+- [Agentic-KSP](https://github.com/adarsh-v-h/AgenticAI-KSP) — An agentic crime-intelligence platform connecting natural-language interaction with secure database intelligence. FastAPI, gRPC, MySQL, AWS RDS, and SSE.
 
----
+- [Universal Log Framework (ULPF)](https://github.com/adarsh-v-h/ULPF) — A universal log ingestion and normalization framework for heterogeneous vendor and application sources, preserving raw events while enriching them into a single schema for storage and analysis.
 
-## Featured projects
+- [High-Performance Limit Order Book](https://github.com/adarsh-v-h/Order_book) — An evolving C++ matching engine focused on low-latency execution, cache-aware data structures, concurrency, memory layout, and deterministic hot paths.
 
-### 1) Agentic-KSP
-A deployed crime-intelligence platform for Karnataka State Police.
+- [Themis's Domain — CRMS](https://github.com/adarsh-v-h/Crime_DB) — A crime record management system built around relational data, backend services, authentication, authorization, indexing, connection pooling, and caching.
 
-- Officers ask questions in English or Kannada
-- LLM generates MySQL queries on AWS RDS with a self-correction loop
-- Answers stream back over SSE
-- Access is read-only and scoped using JWT, RBAC, and a C++20 SQL-AST filter
+- [navexa ARMv8-A Library](https://github.com/adarsh-v-h/navexa_ARMv8-A_Library) — A low-level C++ library exploring ARMv8-A architectural features through NEON intrinsics, AArch64 inline assembly, and efficient low-level data handling.
 
-Tech: Python, FastAPI, gRPC, MySQL, AWS RDS, SSE, RAG
-
-Repository: https://github.com/adarsh-v-h/AgenticAI-KSP
-
-### 2) Universal Log Framework (ULPF)
-A vendor-agnostic log platform for Syslog, CEF, LEEF, and JSON inputs.
-
-- Preserves raw events and normalizes them into a single schema in ClickHouse
-- Built the Java backend for batched writes, integrity checks, and schema mapping
-- Includes SHA-256 Merkle-tree validation for event integrity
-- Local ONNX embedding model for schema mapping
-- Load-tested at ~995 events/sec with ~77 ms P95 latency
-
-Tech: Java 21, Spring Boot, SQLite, ClickHouse, Podman
-
-Repository: https://github.com/adarsh-v-h/ULPF
-
-### 3) MeetInMin
-Meeting assistant that records browser-tab audio without a bot joining the call.
-
-- Produces transcript, summary, key decisions, and action items
-- Uses Zoho Zia speech-to-text in 4-minute chunks
-- Extracts decisions with Zoho GLM and confidence scores
-- Maintains per-project memory from meetings and project docs
-- Reads Gmail context for decisions and follow-ups
-
-Tech: Python, FastAPI, React, Chrome Extension MV3, Gmail OAuth
-
-Repository: https://github.com/adarsh-v-h/MeetInMin
-
-### 4) High-Performance Limit Order Book
-An evolving low-latency C++ matching engine.
-
-- Focused on cache-aware structures, concurrency, deterministic hot paths, and memory layout
-- Built to learn how latency is shaped by data structure and system design decisions
-
-Tech: C++, low-level design, performance engineering
-
-Repository: https://github.com/adarsh-v-h/Order_book
-
-### 5) Themis's Domain — CRMS
-A crime record management system centered on relational data and backend services.
-
-- Authentication, authorization, indexing, connection pooling, and caching
-- Strong hands-on exposure to backend service design and data management
-
-Tech: Backend services, relational design, auth, indexing, pooling
-
-Repository: https://github.com/adarsh-v-h/Crime_DB
-
-### 6) Software-Defined FADEC Simulation
-A fault-tolerant engine control simulation built in C++.
-
-- Closed-loop engine dynamics
-- Telemetry and safe-state failover logic
-- Reliability-focused control architecture
-
-Tech: C++, simulation, control systems, fault tolerance
-
-Repository: https://github.com/adarsh-v-h/Software-Defined-FADEC-Simulation
+- [Software-Defined FADEC Simulation](https://github.com/adarsh-v-h/Software-Defined-FADEC-Simulation) — A C++ simulation of a fault-tolerant FADEC architecture with closed-loop engine dynamics, telemetry and safe-state failover logic.
 
 ---
 
-## Stack & tools
+**Areas I'm working in**
 
-### Backend
-- Python
-- FastAPI
-- gRPC
-- Java (Spring Boot)
+```text
+Systems          C · C++ · Linux · memory · concurrency · computer architecture
 
-### Databases
-- MySQL
-- ClickHouse
-- SQLite
-- PostgreSQL
+Backend          Python · FastAPI · APIs · gRPC · SSE · authentication · Java · Spring Boot
 
-### Systems & low-level
-- C
-- C++
-- Linux
-- Memory and low-level performance design
-- Concurrency patterns
+Databases        MySQL · SQLite · ClickHouse · SQL · indexing · query execution · connection pooling · storage systems
 
-### Cloud & infra
-- AWS
-- GCP
-- Docker
-- Podman
-- Kubernetes
-- Terraform
+Distributed      Replication · partitioning · consistency · messaging · fault tolerance
 
-### Security & auth
-- JWT
-- OAuth2 / OpenID Connect
-- RBAC / IAM
-- SSO
-- TLS / PKI
-- Secrets management (Vault, secret stores)
-- Security auditing and logging
+Cloud            AWS · compute · networking · storage · databases · deployment
+
+Performance      Low latency · cache locality · memory layout · profiling · SIMD
+
+Security         Network security · IAM · authentication · authorization
+```
 
 ---
+**Currently exploring**
 
-## Currently exploring
-
-- Distributed systems fundamentals: replication, partitioning, consistency, and failure modes
-- Database internals and query execution
-- PostgreSQL internals and performance tuning
-- Low-level design in C++
+- System Design(HLD and LLD)
+- Database Internals
+- Designing Data-Intensive Applications
+- Python FastAPI Advanced
 - Core Java and Spring Boot
-- Cloud architecture beyond RDS
-- Advanced FastAPI patterns
-- Reinforcement learning for intelligent systems
-- Performance-oriented systems programming
+- Cloud Architecture with AWS
+- Backend and System Design
+- Performance-oriented C++
 
 ---
 
-## A quick principle
-
-> I don’t just want software that works — I want software that is efficient, understandable, resilient, and built on strong system-level intuition.
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-v-h-2005abc)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:adarshvh2005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://adarsh-v-h.github.io/)
