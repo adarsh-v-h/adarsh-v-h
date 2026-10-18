@@ -8,7 +8,7 @@ I build software at the intersection of systems, backend engineering, databases,
 
 I care deeply about understanding what’s under the hood: how data moves, how systems fail, how databases execute, where latency comes from, and how software interacts with the hardware beneath it.
 
-[LinkedIn](https://linkedin.com/in/adarsh-v-h-2005abc) · [Gmail](mailto:adarshvh2005@gmail.com) · [Portfolio](https://adarsh-v-h.github.io/)
+[LinkedIn](https://linkedin.com/in/adarsh-v-h-2005abc), [Gmail](mailto:adarshvh2005@gmail.com), [Portfolio](https://adarsh-v-h.github.io/)
 
 </div>
 
