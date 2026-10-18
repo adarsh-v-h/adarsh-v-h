@@ -16,7 +16,6 @@ I like understanding what happens underneath the abstractions: how data moves th
 - [Themis's Domain — CRMS](https://github.com/adarsh-v-h/Crime_DB) — A crime record management system built around relational data, backend services, authentication, authorization, indexing, c[...]
 
 - [MeetInMin](https://github.com/adarsh-v-h/MeetInMin) — An invisible, AI-powered meeting assistant that captures browser-tab audio via a lightweight Chrome extension and produces transcripts, summaries, key decisions, and action items.
-- Uses Zoho Zia STT with automatic 4-minute chunking, a project memory engine, and Gmail context integration to surface relevant follow-ups.
 
 - [Software-Defined FADEC Simulation](https://github.com/adarsh-v-h/Software-Defined-FADEC-Simulation) — A C++ simulation of a fault-tolerant FADEC architecture with closed-loop engine dynamics,[...]
 
