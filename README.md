@@ -8,9 +8,7 @@ I build software at the intersection of systems, backend engineering, databases,
 
 I care deeply about understanding what’s under the hood: how data moves, how systems fail, how databases execute, where latency comes from, and how software interacts with the hardware beneath it.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-v-h-2005abc)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshvh2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://adarsh-v-h.github.io/)
+[LinkedIn](https://linkedin.com/in/adarsh-v-h-2005abc) · [Gmail](mailto:adarshvh2005@gmail.com) · [Portfolio](https://adarsh-v-h.github.io/)
 
 </div>
 
@@ -100,33 +98,40 @@ Repository: https://github.com/adarsh-v-h/Software-Defined-FADEC-Simulation
 ## Stack & tools
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-1C7CE5?style=flat-square&logo=grpc&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring%20Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+- Python
+- FastAPI
+- gRPC
+- Java (Spring Boot)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- MySQL
+- ClickHouse
+- SQLite
+- PostgreSQL
 
 ### Systems & low-level
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Memory](https://img.shields.io/badge/Memory-Design-8A2BE2?style=flat-square)
-![Concurrency](https://img.shields.io/badge/Concurrency-Design-FF7F50?style=flat-square)
+- C
+- C++
+- Linux
+- Memory and low-level performance design
+- Concurrency patterns
 
 ### Cloud & infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
+- AWS
+- GCP
+- Docker
+- Podman
+- Kubernetes
+- Terraform
 
 ### Security & auth
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-Access_Control-4B5563?style=flat-square)
-![OAuth](https://img.shields.io/badge/OAuth-2.0-3C7CFF?style=flat-square&logo=oauth&logoColor=white)
+- JWT
+- OAuth2 / OpenID Connect
+- RBAC / IAM
+- SSO
+- TLS / PKI
+- Secrets management (Vault, secret stores)
+- Security auditing and logging
 
 ---
 
