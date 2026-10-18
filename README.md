@@ -126,7 +126,7 @@ Repository: https://github.com/adarsh-v-h/Software-Defined-FADEC-Simulation
 ### Security & auth
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-Access_Control-4B5563?style=flat-square)
-![OAuth](https://img.shields.io/badge/OAuth-2.0-3C7CFF?style=flat-square)
+![OAuth](https://img.shields.io/badge/OAuth-2.0-3C7CFF?style=flat-square&logo=oauth&logoColor=white)
 
 ---
 
@@ -149,9 +149,3 @@ Repository: https://github.com/adarsh-v-h/Software-Defined-FADEC-Simulation
 > I don’t just want software that works — I want software that is efficient, understandable, resilient, and built on strong system-level intuition.
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=adarsh-v-h&label=Profile%20views&color=brightgreen&style=flat-square" alt="profile views" />
-
-</div>
